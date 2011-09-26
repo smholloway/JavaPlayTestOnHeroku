@@ -1,0 +1,21 @@
+## Java specific
+*.class
+*.classpath
+
+## Package Files
+*.jar
+*.war
+*.ear
+
+## IDE specific
+*.settings
+*.metadata
+*.project
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.log
